@@ -1,6 +1,6 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
-# NAME: Renusri Naraharashetty
-# REGISTER NUMBER: 212223240139
+# NAME: PRIYANKA K
+# REGISTER NUMBER: 212223230162
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
