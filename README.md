@@ -263,11 +263,11 @@ else:
 
 ## Loss Vs Epoch Plot
 
-![alt text](image.png)
+<img width="816" height="654" alt="image" src="https://github.com/user-attachments/assets/edf035bb-9999-4693-9503-a8d24fa2fe6b" />
 
 ### Sample Text Prediction
 
-![alt text](image-1.png)
+<img width="424" height="588" alt="image" src="https://github.com/user-attachments/assets/ac7da3f8-c63b-47d5-a3e4-ba70ba5cee4e" />
 
 ## RESULT
 
